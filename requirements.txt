@@ -1,0 +1,12 @@
+langchain
+langchain-community
+pymysql
+cryptography
+sqlalchemy
+pypdf
+notebook
+python-dotenv
+google-generativeai
+chromadb
+faiss-cpu
+streamlit
